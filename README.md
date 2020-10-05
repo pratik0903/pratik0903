@@ -4,7 +4,7 @@ My name is Pratik and I am 3rd year Computer Enggineering student at  D.Y. Patil
 ## About myself: <img src="https://www.iconfinder.com/data/icons/bitcoin-cryptocurrency-lavender-vol-2-1/512/cypherpunk-512.png" width="30" alt="Coder">
 
 - Web Developer Enthusiast
-- Competitive Programmar
+- Competitive Programmer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik0903&layout=compact)](https://github.com/pratik0903/github-readme-stats)
 
