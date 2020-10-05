@@ -21,6 +21,8 @@ My name is Pratik and I am 3rd year Computer Enggineering student at  D.Y. Patil
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="30" alt="Git" align="left">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="Git" align="left">
 
+<br>
+<br>
 
 ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik0903&show_icons=true&theme=radical)
 
