@@ -36,7 +36,7 @@ My name is Pratik and I am 3rd year Computer Enggineering student at  D.Y. Patil
 
 [<img align="left" alt="Codechef" width="30px"  src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />][Codechef]
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" />][linkedin]
+[<img align="left" alt="LinkedIn" width="30px" src="https://remcoproducts.com/wp-content/uploads/2017/12/linkedin-icon.png" />][linkedin]
 
 [<img align="left"  alt="Instagram " width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png" />][instagram]
 
