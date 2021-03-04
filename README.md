@@ -33,8 +33,6 @@ My name is Pratik and I am 3rd year Computer Enggineering student at  D.Y. Patil
 [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][hackerrank]
 [<img align="left" alt="Codechef" width="25px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />][Codechef]
 
-<br>
-<br>
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" />][linkedin]
 [<img align="left" alt="Instagram " width="25px" src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ" />][instagram]
