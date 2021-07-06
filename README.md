@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Pratik and I am 3rd year Computer Enggineering student at  D.Y. Patil College Of Engineering, Akurdi, Pune.
+My name is Pratik and I am 3rd year Computer Engineering student at  D.Y. Patil College Of Engineering, Akurdi, Pune.
 
 ## About myself: <img src="https://www.iconfinder.com/data/icons/bitcoin-cryptocurrency-lavender-vol-2-1/512/cypherpunk-512.png" width="30" alt="Coder">
 
